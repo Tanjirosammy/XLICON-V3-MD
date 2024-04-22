@@ -1,6 +1,6 @@
 
 
-# `XLICON-V3-MD`
+# `ALPHA-BOT MD`
 <br>
 <br>
 
@@ -8,27 +8,27 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20XLICON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
 <p align="center">
   
->XLICON-V3-MD is based on :
+>ALPHA-BOT MD is based on :
 >- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
 >
 > :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
+[![ALPHA](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
 
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/salmanytofficial"><img title="Author" src="https://in.pinterest.com/pin/792070653214326890/"
 
-### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About ALPHA-BOT MD**
+ALPHA-BOT MD is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
 <a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-V3-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/salmanytofficial/ALPHA-BOT MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-V3-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V3-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>

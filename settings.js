@@ -16,10 +16,10 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
+ //  * @project_name : ALPHA-BOT MD
+ //  * @author : Louie-Obadiah
  //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//   * @description : ALPHA-MD ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
@@ -43,7 +43,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: tanjirosammy " //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
 //________________________________________________________________________________________________________
@@ -54,7 +54,7 @@ global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'Louie sammy' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -64,17 +64,17 @@ global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/tanjirosammy/ALPHA-BOT MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "ALPHA-BOT MD"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY LOUIE SAMMY"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["254711376529"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
